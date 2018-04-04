@@ -1,0 +1,6 @@
+C:\Users\ipritt\OneDrive\Troelsen\InterfaceHierarchy\InterfaceHierarchy\bin\Debug\InterfaceHierarchy.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\InterfaceHierarchy\InterfaceHierarchy\bin\Debug\InterfaceHierarchy.exe
+C:\Users\ipritt\OneDrive\Troelsen\InterfaceHierarchy\InterfaceHierarchy\bin\Debug\InterfaceHierarchy.pdb
+C:\Users\ipritt\OneDrive\Troelsen\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\InterfaceHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\InterfaceHierarchy.exe
+C:\Users\ipritt\OneDrive\Troelsen\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\InterfaceHierarchy.pdb

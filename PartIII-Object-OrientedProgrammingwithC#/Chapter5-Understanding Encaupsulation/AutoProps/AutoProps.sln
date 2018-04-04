@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoProps", "AutoProps\AutoProps.csproj", "{F3E2A068-F475-4537-843F-F6B83AD2252B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3E2A068-F475-4537-843F-F6B83AD2252B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E2A068-F475-4537-843F-F6B83AD2252B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E2A068-F475-4537-843F-F6B83AD2252B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E2A068-F475-4537-843F-F6B83AD2252B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C27EE3F9-D389-4C0F-A0D3-9EBE5529D15A}
+	EndGlobalSection
+EndGlobal

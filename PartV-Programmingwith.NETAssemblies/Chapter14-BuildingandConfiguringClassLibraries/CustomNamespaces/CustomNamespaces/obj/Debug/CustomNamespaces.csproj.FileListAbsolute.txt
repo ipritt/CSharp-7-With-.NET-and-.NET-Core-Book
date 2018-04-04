@@ -1,0 +1,7 @@
+C:\Users\ipritt\OneDrive\Troelsen\CustomNamespaces\CustomNamespaces\bin\Debug\CustomNamespaces.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\CustomNamespaces\CustomNamespaces\bin\Debug\CustomNamespaces.exe
+C:\Users\ipritt\OneDrive\Troelsen\CustomNamespaces\CustomNamespaces\bin\Debug\CustomNamespaces.pdb
+C:\Users\ipritt\OneDrive\Troelsen\CustomNamespaces\CustomNamespaces\obj\Debug\CustomNamespaces.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\CustomNamespaces\CustomNamespaces\obj\Debug\CustomNamespaces.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\CustomNamespaces\CustomNamespaces\obj\Debug\CustomNamespaces.exe
+C:\Users\ipritt\OneDrive\Troelsen\CustomNamespaces\CustomNamespaces\obj\Debug\CustomNamespaces.pdb

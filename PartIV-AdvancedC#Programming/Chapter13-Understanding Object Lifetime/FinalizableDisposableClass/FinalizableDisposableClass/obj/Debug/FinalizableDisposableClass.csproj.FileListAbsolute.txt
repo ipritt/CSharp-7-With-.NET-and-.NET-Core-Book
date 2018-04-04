@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\FinalizableDisposableClass\FinalizableDisposableClass\bin\Debug\FinalizableDisposableClass.exe.config
+C:\Users\lanad\OneDrive\Troelsen\FinalizableDisposableClass\FinalizableDisposableClass\bin\Debug\FinalizableDisposableClass.exe
+C:\Users\lanad\OneDrive\Troelsen\FinalizableDisposableClass\FinalizableDisposableClass\bin\Debug\FinalizableDisposableClass.pdb
+C:\Users\lanad\OneDrive\Troelsen\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\FinalizableDisposableClass.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\FinalizableDisposableClass.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\FinalizableDisposableClass.exe
+C:\Users\lanad\OneDrive\Troelsen\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\FinalizableDisposableClass.pdb

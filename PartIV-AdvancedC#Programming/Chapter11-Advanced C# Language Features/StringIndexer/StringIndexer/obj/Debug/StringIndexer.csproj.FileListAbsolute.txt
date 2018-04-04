@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\StringIndexer\StringIndexer\bin\Debug\StringIndexer.exe.config
+C:\Users\lanad\OneDrive\Troelsen\StringIndexer\StringIndexer\bin\Debug\StringIndexer.exe
+C:\Users\lanad\OneDrive\Troelsen\StringIndexer\StringIndexer\bin\Debug\StringIndexer.pdb
+C:\Users\lanad\OneDrive\Troelsen\StringIndexer\StringIndexer\obj\Debug\StringIndexer.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\StringIndexer\StringIndexer\obj\Debug\StringIndexer.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\StringIndexer\StringIndexer\obj\Debug\StringIndexer.exe
+C:\Users\lanad\OneDrive\Troelsen\StringIndexer\StringIndexer\obj\Debug\StringIndexer.pdb

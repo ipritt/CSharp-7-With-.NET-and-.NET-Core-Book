@@ -1,0 +1,7 @@
+C:\Users\ipritt\OneDrive\Troelsen\LinqOverArray\LinqOverArray\bin\Debug\LinqOverArray.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\LinqOverArray\LinqOverArray\bin\Debug\LinqOverArray.exe
+C:\Users\ipritt\OneDrive\Troelsen\LinqOverArray\LinqOverArray\bin\Debug\LinqOverArray.pdb
+C:\Users\ipritt\OneDrive\Troelsen\LinqOverArray\LinqOverArray\obj\Debug\LinqOverArray.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\LinqOverArray\LinqOverArray\obj\Debug\LinqOverArray.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\LinqOverArray\LinqOverArray\obj\Debug\LinqOverArray.exe
+C:\Users\ipritt\OneDrive\Troelsen\LinqOverArray\LinqOverArray\obj\Debug\LinqOverArray.pdb

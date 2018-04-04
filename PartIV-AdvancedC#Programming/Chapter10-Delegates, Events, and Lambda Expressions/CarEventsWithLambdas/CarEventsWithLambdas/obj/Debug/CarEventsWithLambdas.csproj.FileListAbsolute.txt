@@ -1,0 +1,6 @@
+C:\Users\lanad\OneDrive\Troelsen\CarEventsWithLambdas\CarEventsWithLambdas\bin\Debug\CarEventsWithLambdas.exe.config
+C:\Users\lanad\OneDrive\Troelsen\CarEventsWithLambdas\CarEventsWithLambdas\bin\Debug\CarEventsWithLambdas.exe
+C:\Users\lanad\OneDrive\Troelsen\CarEventsWithLambdas\CarEventsWithLambdas\bin\Debug\CarEventsWithLambdas.pdb
+C:\Users\lanad\OneDrive\Troelsen\CarEventsWithLambdas\CarEventsWithLambdas\obj\Debug\CarEventsWithLambdas.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\CarEventsWithLambdas\CarEventsWithLambdas\obj\Debug\CarEventsWithLambdas.exe
+C:\Users\lanad\OneDrive\Troelsen\CarEventsWithLambdas\CarEventsWithLambdas\obj\Debug\CarEventsWithLambdas.pdb

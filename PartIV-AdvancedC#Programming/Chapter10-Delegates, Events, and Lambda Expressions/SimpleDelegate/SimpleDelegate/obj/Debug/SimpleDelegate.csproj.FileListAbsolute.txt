@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+C:\Users\lanad\OneDrive\Troelsen\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+C:\Users\lanad\OneDrive\Troelsen\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+C:\Users\lanad\OneDrive\Troelsen\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+C:\Users\lanad\OneDrive\Troelsen\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.pdb

@@ -1,0 +1,7 @@
+C:\Troelsen\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.exe.config
+C:\Troelsen\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.exe
+C:\Troelsen\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.pdb
+C:\Troelsen\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.csprojResolveAssemblyReference.cache
+C:\Troelsen\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.csproj.CoreCompileInputs.cache
+C:\Troelsen\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.exe
+C:\Troelsen\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.pdb

@@ -1,0 +1,7 @@
+C:\Troelsen\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Troelsen\Calc\Calc\bin\Debug\Calc.exe
+C:\Troelsen\Calc\Calc\bin\Debug\Calc.pdb
+C:\Troelsen\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Troelsen\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Troelsen\Calc\Calc\obj\Debug\Calc.exe
+C:\Troelsen\Calc\Calc\obj\Debug\Calc.pdb

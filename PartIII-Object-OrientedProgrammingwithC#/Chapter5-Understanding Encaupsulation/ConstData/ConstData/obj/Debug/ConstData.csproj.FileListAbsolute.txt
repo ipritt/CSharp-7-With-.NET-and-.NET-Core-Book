@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\ConstData\ConstData\bin\Debug\ConstData.exe.config
+C:\Users\lanad\OneDrive\Troelsen\ConstData\ConstData\bin\Debug\ConstData.exe
+C:\Users\lanad\OneDrive\Troelsen\ConstData\ConstData\bin\Debug\ConstData.pdb
+C:\Users\lanad\OneDrive\Troelsen\ConstData\ConstData\obj\Debug\ConstData.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\ConstData\ConstData\obj\Debug\ConstData.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\ConstData\ConstData\obj\Debug\ConstData.exe
+C:\Users\lanad\OneDrive\Troelsen\ConstData\ConstData\obj\Debug\ConstData.pdb

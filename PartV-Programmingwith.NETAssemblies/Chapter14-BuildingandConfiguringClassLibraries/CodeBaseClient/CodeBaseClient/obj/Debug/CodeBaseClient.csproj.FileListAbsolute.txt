@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\CodeBaseClient\CodeBaseClient\bin\Debug\CodeBaseClient.exe.config
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\CodeBaseClient\CodeBaseClient\bin\Debug\CodeBaseClient.exe
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\CodeBaseClient\CodeBaseClient\bin\Debug\CodeBaseClient.pdb
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\CodeBaseClient\CodeBaseClient\obj\Debug\CodeBaseClient.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\CodeBaseClient\CodeBaseClient\obj\Debug\CodeBaseClient.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\CodeBaseClient\CodeBaseClient\obj\Debug\CodeBaseClient.exe
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\CodeBaseClient\CodeBaseClient\obj\Debug\CodeBaseClient.pdb

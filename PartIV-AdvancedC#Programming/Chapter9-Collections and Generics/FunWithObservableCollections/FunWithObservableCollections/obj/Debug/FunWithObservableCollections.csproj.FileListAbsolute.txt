@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\FunWithObservableCollections\FunWithObservableCollections\bin\Debug\FunWithObservableCollections.exe.config
+C:\Users\lanad\OneDrive\Troelsen\FunWithObservableCollections\FunWithObservableCollections\bin\Debug\FunWithObservableCollections.exe
+C:\Users\lanad\OneDrive\Troelsen\FunWithObservableCollections\FunWithObservableCollections\bin\Debug\FunWithObservableCollections.pdb
+C:\Users\lanad\OneDrive\Troelsen\FunWithObservableCollections\FunWithObservableCollections\obj\Debug\FunWithObservableCollections.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\FunWithObservableCollections\FunWithObservableCollections\obj\Debug\FunWithObservableCollections.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\FunWithObservableCollections\FunWithObservableCollections\obj\Debug\FunWithObservableCollections.exe
+C:\Users\lanad\OneDrive\Troelsen\FunWithObservableCollections\FunWithObservableCollections\obj\Debug\FunWithObservableCollections.pdb

@@ -1,0 +1,18 @@
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\CarLibrary\CarLibrary\bin\Debug\CarLibrary.dll
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\CarLibrary\CarLibrary\bin\Debug\CarLibrary.pdb
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\CarLibrary\CarLibrary\obj\Debug\CarLibrary.dll
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\CarLibrary\CarLibrary\obj\Debug\CarLibrary.pdb
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\CarLibrary\CarLibrary\bin\Debug\CarLibrary.dll
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\CarLibrary\CarLibrary\bin\Debug\CarLibrary.pdb
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\CarLibrary\CarLibrary\obj\Debug\CarLibrary.dll
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\CarLibrary\CarLibrary\obj\Debug\CarLibrary.pdb
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\CarLibrary\CarLibrary\bin\Debug\CarLibrary.dll
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\CarLibrary\CarLibrary\bin\Debug\CarLibrary.pdb
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\CarLibrary\CarLibrary\obj\Debug\CarLibrary.dll
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\CarLibrary\CarLibrary\obj\Debug\CarLibrary.pdb

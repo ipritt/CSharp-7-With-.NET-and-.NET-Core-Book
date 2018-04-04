@@ -1,0 +1,6 @@
+C:\Users\ipritt\OneDrive\Troelsen\CustomEnumeratorWithYield\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\CustomEnumeratorWithYield\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.exe
+C:\Users\ipritt\OneDrive\Troelsen\CustomEnumeratorWithYield\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.pdb
+C:\Users\ipritt\OneDrive\Troelsen\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.exe
+C:\Users\ipritt\OneDrive\Troelsen\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.pdb

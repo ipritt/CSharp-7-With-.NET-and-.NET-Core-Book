@@ -1,0 +1,7 @@
+D:\Troelsen\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.exe.config
+D:\Troelsen\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.exe
+D:\Troelsen\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.pdb
+D:\Troelsen\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.csprojResolveAssemblyReference.cache
+D:\Troelsen\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.csproj.CoreCompileInputs.cache
+D:\Troelsen\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.exe
+D:\Troelsen\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.pdb

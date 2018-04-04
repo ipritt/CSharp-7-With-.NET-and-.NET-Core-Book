@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\AutoProps\AutoProps\bin\Debug\AutoProps.exe.config
+C:\Users\lanad\OneDrive\Troelsen\AutoProps\AutoProps\bin\Debug\AutoProps.exe
+C:\Users\lanad\OneDrive\Troelsen\AutoProps\AutoProps\bin\Debug\AutoProps.pdb
+C:\Users\lanad\OneDrive\Troelsen\AutoProps\AutoProps\obj\Debug\AutoProps.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\AutoProps\AutoProps\obj\Debug\AutoProps.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\AutoProps\AutoProps\obj\Debug\AutoProps.exe
+C:\Users\lanad\OneDrive\Troelsen\AutoProps\AutoProps\obj\Debug\AutoProps.pdb

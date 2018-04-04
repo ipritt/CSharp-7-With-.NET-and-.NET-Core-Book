@@ -1,0 +1,6 @@
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\AppConfigReaderApp\AppConfigReaderApp\bin\Debug\AppConfigReaderApp.exe.config
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\AppConfigReaderApp\AppConfigReaderApp\bin\Debug\AppConfigReaderApp.exe
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\AppConfigReaderApp\AppConfigReaderApp\bin\Debug\AppConfigReaderApp.pdb
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\AppConfigReaderApp\AppConfigReaderApp\obj\Debug\AppConfigReaderApp.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\AppConfigReaderApp\AppConfigReaderApp\obj\Debug\AppConfigReaderApp.exe
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\AppConfigReaderApp\AppConfigReaderApp\obj\Debug\AppConfigReaderApp.pdb

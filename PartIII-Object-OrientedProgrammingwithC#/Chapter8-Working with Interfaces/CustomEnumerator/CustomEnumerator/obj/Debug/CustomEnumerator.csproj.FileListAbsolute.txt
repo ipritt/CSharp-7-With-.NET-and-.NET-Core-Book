@@ -1,0 +1,7 @@
+C:\Users\ipritt\OneDrive\Troelsen\CustomEnumerator\CustomEnumerator\bin\Debug\CustomEnumerator.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\CustomEnumerator\CustomEnumerator\bin\Debug\CustomEnumerator.exe
+C:\Users\ipritt\OneDrive\Troelsen\CustomEnumerator\CustomEnumerator\bin\Debug\CustomEnumerator.pdb
+C:\Users\ipritt\OneDrive\Troelsen\CustomEnumerator\CustomEnumerator\obj\Debug\CustomEnumerator.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\CustomEnumerator\CustomEnumerator\obj\Debug\CustomEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\CustomEnumerator\CustomEnumerator\obj\Debug\CustomEnumerator.exe
+C:\Users\ipritt\OneDrive\Troelsen\CustomEnumerator\CustomEnumerator\obj\Debug\CustomEnumerator.pdb

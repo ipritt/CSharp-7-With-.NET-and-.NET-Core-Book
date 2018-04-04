@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\CustomConversions\CustomConversions\bin\Debug\CustomConversions.exe.config
+C:\Users\lanad\OneDrive\Troelsen\CustomConversions\CustomConversions\bin\Debug\CustomConversions.exe
+C:\Users\lanad\OneDrive\Troelsen\CustomConversions\CustomConversions\bin\Debug\CustomConversions.pdb
+C:\Users\lanad\OneDrive\Troelsen\CustomConversions\CustomConversions\obj\Debug\CustomConversions.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\CustomConversions\CustomConversions\obj\Debug\CustomConversions.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\CustomConversions\CustomConversions\obj\Debug\CustomConversions.exe
+C:\Users\lanad\OneDrive\Troelsen\CustomConversions\CustomConversions\obj\Debug\CustomConversions.pdb

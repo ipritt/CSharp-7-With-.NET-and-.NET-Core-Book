@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\CustomException\CustomException\bin\Debug\CustomException.exe.config
+C:\Users\lanad\OneDrive\Troelsen\CustomException\CustomException\bin\Debug\CustomException.exe
+C:\Users\lanad\OneDrive\Troelsen\CustomException\CustomException\bin\Debug\CustomException.pdb
+C:\Users\lanad\OneDrive\Troelsen\CustomException\CustomException\obj\Debug\CustomException.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\CustomException\CustomException\obj\Debug\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\CustomException\CustomException\obj\Debug\CustomException.exe
+C:\Users\lanad\OneDrive\Troelsen\CustomException\CustomException\obj\Debug\CustomException.pdb

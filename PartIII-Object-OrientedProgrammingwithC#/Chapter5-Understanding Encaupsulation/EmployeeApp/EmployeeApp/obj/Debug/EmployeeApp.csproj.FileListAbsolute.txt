@@ -1,0 +1,14 @@
+C:\Users\ipritt\OneDrive\Troelsen\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\ipritt\OneDrive\Troelsen\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\ipritt\OneDrive\Troelsen\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\ipritt\OneDrive\Troelsen\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb
+C:\Users\lanad\OneDrive\Troelsen\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\lanad\OneDrive\Troelsen\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\lanad\OneDrive\Troelsen\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\lanad\OneDrive\Troelsen\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\lanad\OneDrive\Troelsen\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb

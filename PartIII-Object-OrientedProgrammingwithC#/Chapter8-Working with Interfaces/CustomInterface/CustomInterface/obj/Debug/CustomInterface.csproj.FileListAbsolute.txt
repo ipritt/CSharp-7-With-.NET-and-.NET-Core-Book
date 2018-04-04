@@ -1,0 +1,7 @@
+C:\Users\ipritt\OneDrive\Troelsen\CustomInterface\CustomInterface\bin\Debug\CustomInterface.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\CustomInterface\CustomInterface\bin\Debug\CustomInterface.exe
+C:\Users\ipritt\OneDrive\Troelsen\CustomInterface\CustomInterface\bin\Debug\CustomInterface.pdb
+C:\Users\ipritt\OneDrive\Troelsen\CustomInterface\CustomInterface\obj\Debug\CustomInterface.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\CustomInterface\CustomInterface\obj\Debug\CustomInterface.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\CustomInterface\CustomInterface\obj\Debug\CustomInterface.exe
+C:\Users\ipritt\OneDrive\Troelsen\CustomInterface\CustomInterface\obj\Debug\CustomInterface.pdb

@@ -1,0 +1,7 @@
+C:\Users\ipritt\OneDrive\Troelsen\LinqOverCollections\LinqOverCollections\bin\Debug\LinqOverCollections.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\LinqOverCollections\LinqOverCollections\bin\Debug\LinqOverCollections.exe
+C:\Users\ipritt\OneDrive\Troelsen\LinqOverCollections\LinqOverCollections\bin\Debug\LinqOverCollections.pdb
+C:\Users\ipritt\OneDrive\Troelsen\LinqOverCollections\LinqOverCollections\obj\Debug\LinqOverCollections.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\LinqOverCollections\LinqOverCollections\obj\Debug\LinqOverCollections.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\LinqOverCollections\LinqOverCollections\obj\Debug\LinqOverCollections.exe
+C:\Users\ipritt\OneDrive\Troelsen\LinqOverCollections\LinqOverCollections\obj\Debug\LinqOverCollections.pdb

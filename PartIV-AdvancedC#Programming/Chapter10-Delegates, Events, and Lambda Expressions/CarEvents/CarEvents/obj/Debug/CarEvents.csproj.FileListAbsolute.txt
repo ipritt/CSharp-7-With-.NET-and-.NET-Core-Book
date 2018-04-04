@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\CarEvents\CarEvents\bin\Debug\CarEvents.exe.config
+C:\Users\lanad\OneDrive\Troelsen\CarEvents\CarEvents\bin\Debug\CarEvents.exe
+C:\Users\lanad\OneDrive\Troelsen\CarEvents\CarEvents\bin\Debug\CarEvents.pdb
+C:\Users\lanad\OneDrive\Troelsen\CarEvents\CarEvents\obj\Debug\CarEvents.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\CarEvents\CarEvents\obj\Debug\CarEvents.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\CarEvents\CarEvents\obj\Debug\CarEvents.exe
+C:\Users\lanad\OneDrive\Troelsen\CarEvents\CarEvents\obj\Debug\CarEvents.pdb

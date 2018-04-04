@@ -1,0 +1,6 @@
+C:\Users\lanad\OneDrive\Troelsen\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+C:\Users\lanad\OneDrive\Troelsen\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\Users\lanad\OneDrive\Troelsen\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\Users\lanad\OneDrive\Troelsen\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.exe
+C:\Users\lanad\OneDrive\Troelsen\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.pdb

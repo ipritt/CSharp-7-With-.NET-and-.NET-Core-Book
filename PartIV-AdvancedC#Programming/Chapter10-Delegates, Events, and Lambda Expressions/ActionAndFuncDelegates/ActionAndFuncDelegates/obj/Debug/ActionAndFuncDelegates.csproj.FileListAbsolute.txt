@@ -1,0 +1,6 @@
+C:\Users\lanad\OneDrive\Troelsen\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe.config
+C:\Users\lanad\OneDrive\Troelsen\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe
+C:\Users\lanad\OneDrive\Troelsen\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.pdb
+C:\Users\lanad\OneDrive\Troelsen\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.exe
+C:\Users\lanad\OneDrive\Troelsen\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.pdb

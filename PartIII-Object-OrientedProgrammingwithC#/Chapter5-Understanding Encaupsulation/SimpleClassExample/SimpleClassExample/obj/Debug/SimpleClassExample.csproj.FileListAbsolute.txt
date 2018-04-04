@@ -1,0 +1,7 @@
+C:\Users\ipritt\OneDrive\Troelsen\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+C:\Users\ipritt\OneDrive\Troelsen\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+C:\Users\ipritt\OneDrive\Troelsen\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+C:\Users\ipritt\OneDrive\Troelsen\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.pdb

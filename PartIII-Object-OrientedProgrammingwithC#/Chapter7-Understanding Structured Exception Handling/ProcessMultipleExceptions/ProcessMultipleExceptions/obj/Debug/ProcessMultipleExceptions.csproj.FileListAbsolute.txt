@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\ProcessMultipleExceptions.exe.config
+C:\Users\lanad\OneDrive\Troelsen\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\ProcessMultipleExceptions.exe
+C:\Users\lanad\OneDrive\Troelsen\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\ProcessMultipleExceptions.pdb
+C:\Users\lanad\OneDrive\Troelsen\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\ProcessMultipleExceptions.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\ProcessMultipleExceptions.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\ProcessMultipleExceptions.exe
+C:\Users\lanad\OneDrive\Troelsen\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\ProcessMultipleExceptions.pdb

@@ -1,0 +1,16 @@
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\SharedCarLibClient\SharedCarLibClient\bin\Debug\SharedCarLibClient.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\SharedCarLibClient\SharedCarLibClient\bin\Debug\SharedCarLibClient.exe
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\SharedCarLibClient\SharedCarLibClient\bin\Debug\SharedCarLibClient.pdb
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\SharedCarLibClient\SharedCarLibClient\obj\Debug\SharedCarLibClient.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\SharedCarLibClient\SharedCarLibClient\obj\Debug\SharedCarLibClient.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\SharedCarLibClient\SharedCarLibClient\obj\Debug\SharedCarLibClient.exe
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\SharedCarLibClient\SharedCarLibClient\obj\Debug\SharedCarLibClient.pdb
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\SharedCarLibClient\SharedCarLibClient\bin\Debug\SharedCarLibClient.exe.config
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\SharedCarLibClient\SharedCarLibClient\bin\Debug\SharedCarLibClient.exe
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\SharedCarLibClient\SharedCarLibClient\bin\Debug\SharedCarLibClient.pdb
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\SharedCarLibClient\SharedCarLibClient\bin\Debug\CarLibrary.dll
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\SharedCarLibClient\SharedCarLibClient\obj\Debug\SharedCarLibClient.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\SharedCarLibClient\SharedCarLibClient\obj\Debug\SharedCarLibClient.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\SharedCarLibClient\SharedCarLibClient\obj\Debug\SharedCarLibClient.csproj.CopyComplete
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\SharedCarLibClient\SharedCarLibClient\obj\Debug\SharedCarLibClient.exe
+C:\Users\lanad\OneDrive\Troelsen\Part V-Programmingwith.NETAssemblies\Chapter14-BuildingandConfiguringClassLibraries\SharedCarLibClient\SharedCarLibClient\obj\Debug\SharedCarLibClient.pdb

@@ -1,0 +1,6 @@
+C:\Users\lanad\OneDrive\Troelsen\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.exe.config
+C:\Users\lanad\OneDrive\Troelsen\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.exe
+C:\Users\lanad\OneDrive\Troelsen\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.pdb
+C:\Users\lanad\OneDrive\Troelsen\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.exe
+C:\Users\lanad\OneDrive\Troelsen\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.pdb

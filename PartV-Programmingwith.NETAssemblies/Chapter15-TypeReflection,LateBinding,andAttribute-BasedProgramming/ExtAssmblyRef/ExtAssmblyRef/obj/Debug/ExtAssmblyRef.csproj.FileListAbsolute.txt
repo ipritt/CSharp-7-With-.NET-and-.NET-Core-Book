@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\ExtAssmblyRef\ExtAssmblyRef\bin\Debug\ExtAssmblyRef.exe.config
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\ExtAssmblyRef\ExtAssmblyRef\bin\Debug\ExtAssmblyRef.exe
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\ExtAssmblyRef\ExtAssmblyRef\bin\Debug\ExtAssmblyRef.pdb
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\ExtAssmblyRef\ExtAssmblyRef\obj\Debug\ExtAssmblyRef.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\ExtAssmblyRef\ExtAssmblyRef\obj\Debug\ExtAssmblyRef.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\ExtAssmblyRef\ExtAssmblyRef\obj\Debug\ExtAssmblyRef.exe
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\ExtAssmblyRef\ExtAssmblyRef\obj\Debug\ExtAssmblyRef.pdb

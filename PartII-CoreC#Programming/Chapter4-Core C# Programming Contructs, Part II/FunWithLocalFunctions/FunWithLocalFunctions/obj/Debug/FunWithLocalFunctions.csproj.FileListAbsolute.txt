@@ -1,0 +1,6 @@
+D:\Troelsen\FunWithLocalFunctions\FunWithLocalFunctions\bin\Debug\FunWithLocalFunctions.exe.config
+D:\Troelsen\FunWithLocalFunctions\FunWithLocalFunctions\bin\Debug\FunWithLocalFunctions.exe
+D:\Troelsen\FunWithLocalFunctions\FunWithLocalFunctions\bin\Debug\FunWithLocalFunctions.pdb
+D:\Troelsen\FunWithLocalFunctions\FunWithLocalFunctions\obj\Debug\FunWithLocalFunctions.csproj.CoreCompileInputs.cache
+D:\Troelsen\FunWithLocalFunctions\FunWithLocalFunctions\obj\Debug\FunWithLocalFunctions.exe
+D:\Troelsen\FunWithLocalFunctions\FunWithLocalFunctions\obj\Debug\FunWithLocalFunctions.pdb

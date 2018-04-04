@@ -1,0 +1,7 @@
+C:\Users\ipritt\OneDrive\Troelsen\CloneablePoint\CloneablePoint\bin\Debug\CloneablePoint.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\CloneablePoint\CloneablePoint\bin\Debug\CloneablePoint.exe
+C:\Users\ipritt\OneDrive\Troelsen\CloneablePoint\CloneablePoint\bin\Debug\CloneablePoint.pdb
+C:\Users\ipritt\OneDrive\Troelsen\CloneablePoint\CloneablePoint\obj\Debug\CloneablePoint.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\CloneablePoint\CloneablePoint\obj\Debug\CloneablePoint.exe
+C:\Users\ipritt\OneDrive\Troelsen\CloneablePoint\CloneablePoint\obj\Debug\CloneablePoint.pdb
+C:\Users\ipritt\OneDrive\Troelsen\CloneablePoint\CloneablePoint\obj\Debug\CloneablePoint.csprojResolveAssemblyReference.cache

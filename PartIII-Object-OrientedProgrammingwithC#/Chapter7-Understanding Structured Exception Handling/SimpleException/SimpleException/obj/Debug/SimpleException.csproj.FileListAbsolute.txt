@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\SimpleException\SimpleException\bin\Debug\SimpleException.exe.config
+C:\Users\lanad\OneDrive\Troelsen\SimpleException\SimpleException\bin\Debug\SimpleException.exe
+C:\Users\lanad\OneDrive\Troelsen\SimpleException\SimpleException\bin\Debug\SimpleException.pdb
+C:\Users\lanad\OneDrive\Troelsen\SimpleException\SimpleException\obj\Debug\SimpleException.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\SimpleException\SimpleException\obj\Debug\SimpleException.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\SimpleException\SimpleException\obj\Debug\SimpleException.exe
+C:\Users\lanad\OneDrive\Troelsen\SimpleException\SimpleException\obj\Debug\SimpleException.pdb

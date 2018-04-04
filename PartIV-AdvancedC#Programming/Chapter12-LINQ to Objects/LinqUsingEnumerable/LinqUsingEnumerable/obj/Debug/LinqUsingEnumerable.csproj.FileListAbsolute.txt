@@ -1,0 +1,7 @@
+C:\Users\ipritt\OneDrive\Troelsen\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.exe
+C:\Users\ipritt\OneDrive\Troelsen\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.pdb
+C:\Users\ipritt\OneDrive\Troelsen\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.exe
+C:\Users\ipritt\OneDrive\Troelsen\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.pdb

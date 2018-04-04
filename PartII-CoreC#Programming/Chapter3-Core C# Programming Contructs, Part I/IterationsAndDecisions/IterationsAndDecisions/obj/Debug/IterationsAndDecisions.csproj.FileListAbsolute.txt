@@ -1,0 +1,7 @@
+D:\Troelsen\IterationsAndDecisions\IterationsAndDecisions\bin\Debug\IterationsAndDecisions.exe.config
+D:\Troelsen\IterationsAndDecisions\IterationsAndDecisions\bin\Debug\IterationsAndDecisions.exe
+D:\Troelsen\IterationsAndDecisions\IterationsAndDecisions\bin\Debug\IterationsAndDecisions.pdb
+D:\Troelsen\IterationsAndDecisions\IterationsAndDecisions\obj\Debug\IterationsAndDecisions.csprojResolveAssemblyReference.cache
+D:\Troelsen\IterationsAndDecisions\IterationsAndDecisions\obj\Debug\IterationsAndDecisions.csproj.CoreCompileInputs.cache
+D:\Troelsen\IterationsAndDecisions\IterationsAndDecisions\obj\Debug\IterationsAndDecisions.exe
+D:\Troelsen\IterationsAndDecisions\IterationsAndDecisions\obj\Debug\IterationsAndDecisions.pdb

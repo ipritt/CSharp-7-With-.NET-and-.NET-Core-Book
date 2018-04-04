@@ -1,0 +1,7 @@
+C:\Users\ipritt\OneDrive\Troelsen\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.exe
+C:\Users\ipritt\OneDrive\Troelsen\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.pdb
+C:\Users\ipritt\OneDrive\Troelsen\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.exe
+C:\Users\ipritt\OneDrive\Troelsen\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.pdb

@@ -1,0 +1,7 @@
+C:\Users\ipritt\OneDrive\Troelsen\MIInterfaceHierarchy\MIInterfaceHierarchy\bin\Debug\MIInterfaceHierarchy.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\MIInterfaceHierarchy\MIInterfaceHierarchy\bin\Debug\MIInterfaceHierarchy.exe
+C:\Users\ipritt\OneDrive\Troelsen\MIInterfaceHierarchy\MIInterfaceHierarchy\bin\Debug\MIInterfaceHierarchy.pdb
+C:\Users\ipritt\OneDrive\Troelsen\MIInterfaceHierarchy\MIInterfaceHierarchy\obj\Debug\MIInterfaceHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\MIInterfaceHierarchy\MIInterfaceHierarchy\obj\Debug\MIInterfaceHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\MIInterfaceHierarchy\MIInterfaceHierarchy\obj\Debug\MIInterfaceHierarchy.exe
+C:\Users\ipritt\OneDrive\Troelsen\MIInterfaceHierarchy\MIInterfaceHierarchy\obj\Debug\MIInterfaceHierarchy.pdb

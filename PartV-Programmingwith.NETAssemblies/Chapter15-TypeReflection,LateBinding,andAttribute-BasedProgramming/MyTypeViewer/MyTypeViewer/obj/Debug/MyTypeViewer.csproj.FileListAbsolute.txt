@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\MyTypeViewer\MyTypeViewer\bin\Debug\MyTypeViewer.exe.config
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\MyTypeViewer\MyTypeViewer\bin\Debug\MyTypeViewer.exe
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\MyTypeViewer\MyTypeViewer\bin\Debug\MyTypeViewer.pdb
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\MyTypeViewer\MyTypeViewer\obj\Debug\MyTypeViewer.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\MyTypeViewer\MyTypeViewer\obj\Debug\MyTypeViewer.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\MyTypeViewer\MyTypeViewer\obj\Debug\MyTypeViewer.exe
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\MyTypeViewer\MyTypeViewer\obj\Debug\MyTypeViewer.pdb

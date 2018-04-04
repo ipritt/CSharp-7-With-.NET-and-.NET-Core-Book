@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\AnonymousMethods\AnonymousMethods\bin\Debug\AnonymousMethods.exe.config
+C:\Users\lanad\OneDrive\Troelsen\AnonymousMethods\AnonymousMethods\bin\Debug\AnonymousMethods.exe
+C:\Users\lanad\OneDrive\Troelsen\AnonymousMethods\AnonymousMethods\bin\Debug\AnonymousMethods.pdb
+C:\Users\lanad\OneDrive\Troelsen\AnonymousMethods\AnonymousMethods\obj\Debug\AnonymousMethods.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\AnonymousMethods\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\AnonymousMethods\AnonymousMethods\obj\Debug\AnonymousMethods.exe
+C:\Users\lanad\OneDrive\Troelsen\AnonymousMethods\AnonymousMethods\obj\Debug\AnonymousMethods.pdb

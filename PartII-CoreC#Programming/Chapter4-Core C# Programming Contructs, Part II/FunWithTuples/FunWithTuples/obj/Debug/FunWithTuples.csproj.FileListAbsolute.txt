@@ -1,0 +1,9 @@
+D:\Troelsen\FunWithTuples\FunWithTuples\bin\Debug\FunWithTuples.exe.config
+D:\Troelsen\FunWithTuples\FunWithTuples\bin\Debug\FunWithTuples.exe
+D:\Troelsen\FunWithTuples\FunWithTuples\bin\Debug\FunWithTuples.pdb
+D:\Troelsen\FunWithTuples\FunWithTuples\bin\Debug\System.ValueTuple.dll
+D:\Troelsen\FunWithTuples\FunWithTuples\bin\Debug\System.ValueTuple.xml
+D:\Troelsen\FunWithTuples\FunWithTuples\obj\Debug\FunWithTuples.csprojResolveAssemblyReference.cache
+D:\Troelsen\FunWithTuples\FunWithTuples\obj\Debug\FunWithTuples.csproj.CoreCompileInputs.cache
+D:\Troelsen\FunWithTuples\FunWithTuples\obj\Debug\FunWithTuples.exe
+D:\Troelsen\FunWithTuples\FunWithTuples\obj\Debug\FunWithTuples.pdb

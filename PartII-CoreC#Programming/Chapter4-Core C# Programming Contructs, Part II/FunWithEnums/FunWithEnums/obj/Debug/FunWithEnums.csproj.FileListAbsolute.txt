@@ -1,0 +1,7 @@
+D:\Troelsen\FunWithEnums\FunWithEnums\bin\Debug\FunWithEnums.exe.config
+D:\Troelsen\FunWithEnums\FunWithEnums\bin\Debug\FunWithEnums.exe
+D:\Troelsen\FunWithEnums\FunWithEnums\bin\Debug\FunWithEnums.pdb
+D:\Troelsen\FunWithEnums\FunWithEnums\obj\Debug\FunWithEnums.csprojResolveAssemblyReference.cache
+D:\Troelsen\FunWithEnums\FunWithEnums\obj\Debug\FunWithEnums.csproj.CoreCompileInputs.cache
+D:\Troelsen\FunWithEnums\FunWithEnums\obj\Debug\FunWithEnums.exe
+D:\Troelsen\FunWithEnums\FunWithEnums\obj\Debug\FunWithEnums.pdb

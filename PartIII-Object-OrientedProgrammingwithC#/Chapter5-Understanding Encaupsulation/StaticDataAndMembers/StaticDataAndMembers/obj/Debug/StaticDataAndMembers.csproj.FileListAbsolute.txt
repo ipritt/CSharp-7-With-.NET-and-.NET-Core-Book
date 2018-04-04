@@ -1,0 +1,7 @@
+C:\Users\ipritt\OneDrive\Troelsen\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe
+C:\Users\ipritt\OneDrive\Troelsen\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.pdb
+C:\Users\ipritt\OneDrive\Troelsen\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.exe
+C:\Users\ipritt\OneDrive\Troelsen\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.pdb
+C:\Users\ipritt\OneDrive\Troelsen\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csprojResolveAssemblyReference.cache

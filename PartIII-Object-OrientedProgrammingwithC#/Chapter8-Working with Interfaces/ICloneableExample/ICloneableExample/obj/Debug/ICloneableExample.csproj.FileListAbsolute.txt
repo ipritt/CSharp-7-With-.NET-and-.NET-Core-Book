@@ -1,0 +1,7 @@
+C:\Users\ipritt\OneDrive\Troelsen\ICloneableExample\ICloneableExample\bin\Debug\ICloneableExample.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\ICloneableExample\ICloneableExample\bin\Debug\ICloneableExample.exe
+C:\Users\ipritt\OneDrive\Troelsen\ICloneableExample\ICloneableExample\bin\Debug\ICloneableExample.pdb
+C:\Users\ipritt\OneDrive\Troelsen\ICloneableExample\ICloneableExample\obj\Debug\ICloneableExample.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\ICloneableExample\ICloneableExample\obj\Debug\ICloneableExample.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\ICloneableExample\ICloneableExample\obj\Debug\ICloneableExample.exe
+C:\Users\ipritt\OneDrive\Troelsen\ICloneableExample\ICloneableExample\obj\Debug\ICloneableExample.pdb

@@ -1,0 +1,7 @@
+C:\Troelsen\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe.config
+C:\Troelsen\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe
+C:\Troelsen\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.pdb
+C:\Troelsen\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.csprojResolveAssemblyReference.cache
+C:\Troelsen\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.csproj.CoreCompileInputs.cache
+C:\Troelsen\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.exe
+C:\Troelsen\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.pdb

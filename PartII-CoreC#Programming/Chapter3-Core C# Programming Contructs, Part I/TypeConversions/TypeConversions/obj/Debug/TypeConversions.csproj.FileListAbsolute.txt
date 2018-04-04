@@ -1,0 +1,7 @@
+D:\Troelsen\TypeConversions\TypeConversions\obj\Debug\TypeConversions.csprojResolveAssemblyReference.cache
+D:\Troelsen\TypeConversions\TypeConversions\obj\Debug\TypeConversions.csproj.CoreCompileInputs.cache
+D:\Troelsen\TypeConversions\TypeConversions\bin\Debug\TypeConversions.exe.config
+D:\Troelsen\TypeConversions\TypeConversions\bin\Debug\TypeConversions.exe
+D:\Troelsen\TypeConversions\TypeConversions\bin\Debug\TypeConversions.pdb
+D:\Troelsen\TypeConversions\TypeConversions\obj\Debug\TypeConversions.exe
+D:\Troelsen\TypeConversions\TypeConversions\obj\Debug\TypeConversions.pdb

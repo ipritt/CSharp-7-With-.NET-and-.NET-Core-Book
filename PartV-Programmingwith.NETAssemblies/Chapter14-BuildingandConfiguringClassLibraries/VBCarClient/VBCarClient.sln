@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBCarClient", "VBCarClient\VBCarClient.vbproj", "{D5CDBAC0-3C42-4851-BE93-BDAA57C40DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5CDBAC0-3C42-4851-BE93-BDAA57C40DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5CDBAC0-3C42-4851-BE93-BDAA57C40DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5CDBAC0-3C42-4851-BE93-BDAA57C40DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5CDBAC0-3C42-4851-BE93-BDAA57C40DED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAD0A665-C4DF-4396-9B3E-040E3D0AF819}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\ipritt\OneDrive\Troelsen\UnsafeCode\UnsafeCode\bin\Debug\UnsafeCode.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\UnsafeCode\UnsafeCode\bin\Debug\UnsafeCode.exe
+C:\Users\ipritt\OneDrive\Troelsen\UnsafeCode\UnsafeCode\bin\Debug\UnsafeCode.pdb
+C:\Users\ipritt\OneDrive\Troelsen\UnsafeCode\UnsafeCode\obj\Debug\UnsafeCode.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\UnsafeCode\UnsafeCode\obj\Debug\UnsafeCode.exe
+C:\Users\ipritt\OneDrive\Troelsen\UnsafeCode\UnsafeCode\obj\Debug\UnsafeCode.pdb

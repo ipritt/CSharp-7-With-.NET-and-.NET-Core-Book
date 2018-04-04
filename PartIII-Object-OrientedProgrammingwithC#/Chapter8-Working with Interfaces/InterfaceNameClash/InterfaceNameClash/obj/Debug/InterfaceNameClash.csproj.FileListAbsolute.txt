@@ -1,0 +1,7 @@
+C:\Users\ipritt\OneDrive\Troelsen\InterfaceNameClash\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\InterfaceNameClash\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe
+C:\Users\ipritt\OneDrive\Troelsen\InterfaceNameClash\InterfaceNameClash\bin\Debug\InterfaceNameClash.pdb
+C:\Users\ipritt\OneDrive\Troelsen\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.exe
+C:\Users\ipritt\OneDrive\Troelsen\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.pdb
+C:\Users\ipritt\OneDrive\Troelsen\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.csprojResolveAssemblyReference.cache

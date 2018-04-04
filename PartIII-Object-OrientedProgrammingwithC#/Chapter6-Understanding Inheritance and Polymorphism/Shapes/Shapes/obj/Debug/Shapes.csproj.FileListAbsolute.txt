@@ -1,0 +1,7 @@
+C:\Users\ipritt\OneDrive\Troelsen\Shapes\SHapes\bin\Debug\Shapes.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\Shapes\SHapes\bin\Debug\Shapes.exe
+C:\Users\ipritt\OneDrive\Troelsen\Shapes\SHapes\bin\Debug\Shapes.pdb
+C:\Users\ipritt\OneDrive\Troelsen\Shapes\SHapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\Shapes\SHapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\Shapes\SHapes\obj\Debug\Shapes.exe
+C:\Users\ipritt\OneDrive\Troelsen\Shapes\SHapes\obj\Debug\Shapes.pdb

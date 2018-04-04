@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\SimpleIndexer\SimpleIndexer\obj\Debug\SimpleIndexer.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\SimpleIndexer\SimpleIndexer\obj\Debug\SimpleIndexer.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\SimpleIndexer\SimpleIndexer\bin\Debug\SimpleIndexer.exe.config
+C:\Users\lanad\OneDrive\Troelsen\SimpleIndexer\SimpleIndexer\bin\Debug\SimpleIndexer.exe
+C:\Users\lanad\OneDrive\Troelsen\SimpleIndexer\SimpleIndexer\bin\Debug\SimpleIndexer.pdb
+C:\Users\lanad\OneDrive\Troelsen\SimpleIndexer\SimpleIndexer\obj\Debug\SimpleIndexer.exe
+C:\Users\lanad\OneDrive\Troelsen\SimpleIndexer\SimpleIndexer\obj\Debug\SimpleIndexer.pdb

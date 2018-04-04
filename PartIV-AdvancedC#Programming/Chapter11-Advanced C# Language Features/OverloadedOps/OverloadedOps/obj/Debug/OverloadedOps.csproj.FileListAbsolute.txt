@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\OverloadedOps\OverloadedOps\bin\Debug\OverloadedOps.exe.config
+C:\Users\lanad\OneDrive\Troelsen\OverloadedOps\OverloadedOps\bin\Debug\OverloadedOps.exe
+C:\Users\lanad\OneDrive\Troelsen\OverloadedOps\OverloadedOps\bin\Debug\OverloadedOps.pdb
+C:\Users\lanad\OneDrive\Troelsen\OverloadedOps\OverloadedOps\obj\Debug\OverloadedOps.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\OverloadedOps\OverloadedOps\obj\Debug\OverloadedOps.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\OverloadedOps\OverloadedOps\obj\Debug\OverloadedOps.exe
+C:\Users\lanad\OneDrive\Troelsen\OverloadedOps\OverloadedOps\obj\Debug\OverloadedOps.pdb

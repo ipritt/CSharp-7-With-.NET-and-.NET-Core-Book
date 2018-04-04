@@ -1,0 +1,6 @@
+C:\Users\ipritt\OneDrive\Troelsen\ComparableCar\ComparableCar\bin\Debug\ComparableCar.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\ComparableCar\ComparableCar\bin\Debug\ComparableCar.exe
+C:\Users\ipritt\OneDrive\Troelsen\ComparableCar\ComparableCar\bin\Debug\ComparableCar.pdb
+C:\Users\ipritt\OneDrive\Troelsen\ComparableCar\ComparableCar\obj\Debug\ComparableCar.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\ComparableCar\ComparableCar\obj\Debug\ComparableCar.exe
+C:\Users\ipritt\OneDrive\Troelsen\ComparableCar\ComparableCar\obj\Debug\ComparableCar.pdb

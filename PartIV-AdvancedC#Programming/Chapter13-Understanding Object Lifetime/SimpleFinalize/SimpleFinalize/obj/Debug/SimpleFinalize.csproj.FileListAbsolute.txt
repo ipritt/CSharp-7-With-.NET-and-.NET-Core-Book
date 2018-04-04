@@ -1,0 +1,6 @@
+C:\Users\lanad\OneDrive\Troelsen\SimpleFinalize\SimpleFinalize\bin\Debug\SimpleFinalize.exe.config
+C:\Users\lanad\OneDrive\Troelsen\SimpleFinalize\SimpleFinalize\bin\Debug\SimpleFinalize.exe
+C:\Users\lanad\OneDrive\Troelsen\SimpleFinalize\SimpleFinalize\bin\Debug\SimpleFinalize.pdb
+C:\Users\lanad\OneDrive\Troelsen\SimpleFinalize\SimpleFinalize\obj\Debug\SimpleFinalize.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\SimpleFinalize\SimpleFinalize\obj\Debug\SimpleFinalize.exe
+C:\Users\lanad\OneDrive\Troelsen\SimpleFinalize\SimpleFinalize\obj\Debug\SimpleFinalize.pdb

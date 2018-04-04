@@ -1,0 +1,6 @@
+D:\Troelsen\FunWithStructures\FunWithStructures\bin\Debug\FunWithStructures.exe.config
+D:\Troelsen\FunWithStructures\FunWithStructures\bin\Debug\FunWithStructures.exe
+D:\Troelsen\FunWithStructures\FunWithStructures\bin\Debug\FunWithStructures.pdb
+D:\Troelsen\FunWithStructures\FunWithStructures\obj\Debug\FunWithStructures.csproj.CoreCompileInputs.cache
+D:\Troelsen\FunWithStructures\FunWithStructures\obj\Debug\FunWithStructures.exe
+D:\Troelsen\FunWithStructures\FunWithStructures\obj\Debug\FunWithStructures.pdb

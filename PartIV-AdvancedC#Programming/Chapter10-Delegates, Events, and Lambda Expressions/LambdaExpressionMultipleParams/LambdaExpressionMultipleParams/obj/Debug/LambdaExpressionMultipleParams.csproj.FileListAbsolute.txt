@@ -1,0 +1,6 @@
+C:\Users\lanad\OneDrive\Troelsen\LambdaExpressionMultipleParams\LambdaExpressionMultipleParams\bin\Debug\LambdaExpressionMultipleParams.exe.config
+C:\Users\lanad\OneDrive\Troelsen\LambdaExpressionMultipleParams\LambdaExpressionMultipleParams\bin\Debug\LambdaExpressionMultipleParams.exe
+C:\Users\lanad\OneDrive\Troelsen\LambdaExpressionMultipleParams\LambdaExpressionMultipleParams\bin\Debug\LambdaExpressionMultipleParams.pdb
+C:\Users\lanad\OneDrive\Troelsen\LambdaExpressionMultipleParams\LambdaExpressionMultipleParams\obj\Debug\LambdaExpressionMultipleParams.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\LambdaExpressionMultipleParams\LambdaExpressionMultipleParams\obj\Debug\LambdaExpressionMultipleParams.exe
+C:\Users\lanad\OneDrive\Troelsen\LambdaExpressionMultipleParams\LambdaExpressionMultipleParams\obj\Debug\LambdaExpressionMultipleParams.pdb

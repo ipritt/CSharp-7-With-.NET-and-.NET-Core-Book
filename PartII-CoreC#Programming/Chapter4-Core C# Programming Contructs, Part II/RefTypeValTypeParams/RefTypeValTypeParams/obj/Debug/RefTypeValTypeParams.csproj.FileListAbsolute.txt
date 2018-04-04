@@ -1,0 +1,7 @@
+D:\Troelsen\RefTypeValTypeParams\RefTypeValTypeParams\bin\Debug\RefTypeValTypeParams.exe.config
+D:\Troelsen\RefTypeValTypeParams\RefTypeValTypeParams\bin\Debug\RefTypeValTypeParams.exe
+D:\Troelsen\RefTypeValTypeParams\RefTypeValTypeParams\bin\Debug\RefTypeValTypeParams.pdb
+D:\Troelsen\RefTypeValTypeParams\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.csprojResolveAssemblyReference.cache
+D:\Troelsen\RefTypeValTypeParams\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.csproj.CoreCompileInputs.cache
+D:\Troelsen\RefTypeValTypeParams\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.exe
+D:\Troelsen\RefTypeValTypeParams\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.pdb

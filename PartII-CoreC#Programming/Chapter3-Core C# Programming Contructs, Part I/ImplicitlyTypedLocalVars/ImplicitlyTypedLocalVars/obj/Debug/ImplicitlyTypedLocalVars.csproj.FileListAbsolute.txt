@@ -1,0 +1,7 @@
+D:\Troelsen\ImplicitlyTypedLocalVars\ImplicitlyTypedLocalVars\bin\Debug\ImplicitlyTypedLocalVars.exe.config
+D:\Troelsen\ImplicitlyTypedLocalVars\ImplicitlyTypedLocalVars\bin\Debug\ImplicitlyTypedLocalVars.exe
+D:\Troelsen\ImplicitlyTypedLocalVars\ImplicitlyTypedLocalVars\bin\Debug\ImplicitlyTypedLocalVars.pdb
+D:\Troelsen\ImplicitlyTypedLocalVars\ImplicitlyTypedLocalVars\obj\Debug\ImplicitlyTypedLocalVars.csproj.CoreCompileInputs.cache
+D:\Troelsen\ImplicitlyTypedLocalVars\ImplicitlyTypedLocalVars\obj\Debug\ImplicitlyTypedLocalVars.exe
+D:\Troelsen\ImplicitlyTypedLocalVars\ImplicitlyTypedLocalVars\obj\Debug\ImplicitlyTypedLocalVars.pdb
+D:\Troelsen\ImplicitlyTypedLocalVars\ImplicitlyTypedLocalVars\obj\Debug\ImplicitlyTypedLocalVars.csprojResolveAssemblyReference.cache

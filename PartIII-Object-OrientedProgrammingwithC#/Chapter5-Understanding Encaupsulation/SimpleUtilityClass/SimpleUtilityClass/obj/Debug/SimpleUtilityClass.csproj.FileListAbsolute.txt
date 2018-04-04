@@ -1,0 +1,7 @@
+C:\Users\ipritt\OneDrive\Troelsen\SimpleUtilityClass\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\SimpleUtilityClass\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe
+C:\Users\ipritt\OneDrive\Troelsen\SimpleUtilityClass\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.pdb
+C:\Users\ipritt\OneDrive\Troelsen\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.exe
+C:\Users\ipritt\OneDrive\Troelsen\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.pdb

@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\SharedAsmRef\SharedAsmRef\bin\Debug\SharedAsmRef.exe.config
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\SharedAsmRef\SharedAsmRef\bin\Debug\SharedAsmRef.exe
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\SharedAsmRef\SharedAsmRef\bin\Debug\SharedAsmRef.pdb
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\SharedAsmRef\SharedAsmRef\obj\Debug\SharedAsmRef.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\SharedAsmRef\SharedAsmRef\obj\Debug\SharedAsmRef.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\SharedAsmRef\SharedAsmRef\obj\Debug\SharedAsmRef.exe
+C:\Users\lanad\OneDrive\Troelsen\PartV-Programmingwith.NETAssemblies\Chapter15-TypeReflection,LateBinding,andAttribute-BasedProgramming\SharedAsmRef\SharedAsmRef\obj\Debug\SharedAsmRef.pdb

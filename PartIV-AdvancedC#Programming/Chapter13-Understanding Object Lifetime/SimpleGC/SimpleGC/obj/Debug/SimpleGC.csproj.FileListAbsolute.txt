@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\SimpleGC\SimpleGC\bin\Debug\SimpleGC.exe.config
+C:\Users\lanad\OneDrive\Troelsen\SimpleGC\SimpleGC\bin\Debug\SimpleGC.exe
+C:\Users\lanad\OneDrive\Troelsen\SimpleGC\SimpleGC\bin\Debug\SimpleGC.pdb
+C:\Users\lanad\OneDrive\Troelsen\SimpleGC\SimpleGC\obj\Debug\SimpleGC.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\SimpleGC\SimpleGC\obj\Debug\SimpleGC.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\SimpleGC\SimpleGC\obj\Debug\SimpleGC.exe
+C:\Users\lanad\OneDrive\Troelsen\SimpleGC\SimpleGC\obj\Debug\SimpleGC.pdb

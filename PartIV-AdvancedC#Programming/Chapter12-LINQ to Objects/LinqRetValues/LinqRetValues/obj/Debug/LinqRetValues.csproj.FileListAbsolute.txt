@@ -1,0 +1,6 @@
+C:\Users\ipritt\OneDrive\Troelsen\LinqRetValues\LinqRetValues\bin\Debug\LinqRetValues.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\LinqRetValues\LinqRetValues\bin\Debug\LinqRetValues.exe
+C:\Users\ipritt\OneDrive\Troelsen\LinqRetValues\LinqRetValues\bin\Debug\LinqRetValues.pdb
+C:\Users\ipritt\OneDrive\Troelsen\LinqRetValues\LinqRetValues\obj\Debug\LinqRetValues.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\LinqRetValues\LinqRetValues\obj\Debug\LinqRetValues.exe
+C:\Users\ipritt\OneDrive\Troelsen\LinqRetValues\LinqRetValues\obj\Debug\LinqRetValues.pdb

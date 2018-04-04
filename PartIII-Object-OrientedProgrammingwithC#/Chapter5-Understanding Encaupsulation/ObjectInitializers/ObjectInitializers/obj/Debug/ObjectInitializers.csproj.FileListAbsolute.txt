@@ -1,0 +1,6 @@
+C:\Users\lanad\OneDrive\Troelsen\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.exe.config
+C:\Users\lanad\OneDrive\Troelsen\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.exe
+C:\Users\lanad\OneDrive\Troelsen\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.pdb
+C:\Users\lanad\OneDrive\Troelsen\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.exe
+C:\Users\lanad\OneDrive\Troelsen\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.pdb

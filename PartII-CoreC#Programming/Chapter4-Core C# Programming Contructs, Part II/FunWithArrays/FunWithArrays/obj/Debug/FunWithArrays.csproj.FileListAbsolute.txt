@@ -1,0 +1,7 @@
+D:\Troelsen\FunWithArrays\FunWithArrays\bin\Debug\FunWithArrays.exe.config
+D:\Troelsen\FunWithArrays\FunWithArrays\bin\Debug\FunWithArrays.exe
+D:\Troelsen\FunWithArrays\FunWithArrays\bin\Debug\FunWithArrays.pdb
+D:\Troelsen\FunWithArrays\FunWithArrays\obj\Debug\FunWithArrays.csprojResolveAssemblyReference.cache
+D:\Troelsen\FunWithArrays\FunWithArrays\obj\Debug\FunWithArrays.csproj.CoreCompileInputs.cache
+D:\Troelsen\FunWithArrays\FunWithArrays\obj\Debug\FunWithArrays.exe
+D:\Troelsen\FunWithArrays\FunWithArrays\obj\Debug\FunWithArrays.pdb

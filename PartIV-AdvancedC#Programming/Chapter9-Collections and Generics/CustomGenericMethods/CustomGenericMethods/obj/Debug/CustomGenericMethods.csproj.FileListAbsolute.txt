@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\CustomGenericMethods\CustomGenericMethods\bin\Debug\CustomGenericMethods.exe.config
+C:\Users\lanad\OneDrive\Troelsen\CustomGenericMethods\CustomGenericMethods\bin\Debug\CustomGenericMethods.exe
+C:\Users\lanad\OneDrive\Troelsen\CustomGenericMethods\CustomGenericMethods\bin\Debug\CustomGenericMethods.pdb
+C:\Users\lanad\OneDrive\Troelsen\CustomGenericMethods\CustomGenericMethods\obj\Debug\CustomGenericMethods.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\CustomGenericMethods\CustomGenericMethods\obj\Debug\CustomGenericMethods.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\CustomGenericMethods\CustomGenericMethods\obj\Debug\CustomGenericMethods.exe
+C:\Users\lanad\OneDrive\Troelsen\CustomGenericMethods\CustomGenericMethods\obj\Debug\CustomGenericMethods.pdb

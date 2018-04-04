@@ -1,0 +1,14 @@
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\VBCarClient\VBCarClient\bin\Debug\VBCarClient.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\VBCarClient\VBCarClient\bin\Debug\VBCarClient.exe
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\VBCarClient\VBCarClient\bin\Debug\VBCarClient.pdb
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\VBCarClient\VBCarClient\bin\Debug\VBCarClient.xml
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\VBCarClient\VBCarClient\bin\Debug\CarLibrary.dll
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\VBCarClient\VBCarClient\bin\Debug\CarLibrary.pdb
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\VBCarClient\VBCarClient\obj\Debug\VBCarClient.vbprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\VBCarClient\VBCarClient\obj\Debug\VBCarClient.Resources.resources
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\VBCarClient\VBCarClient\obj\Debug\VBCarClient.vbproj.GenerateResource.cache
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\VBCarClient\VBCarClient\obj\Debug\VBCarClient.vbproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\VBCarClient\VBCarClient\obj\Debug\VBCarClient.vbproj.CopyComplete
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\VBCarClient\VBCarClient\obj\Debug\VBCarClient.exe
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\VBCarClient\VBCarClient\obj\Debug\VBCarClient.xml
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\VBCarClient\VBCarClient\obj\Debug\VBCarClient.pdb

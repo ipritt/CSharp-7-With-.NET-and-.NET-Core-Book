@@ -1,0 +1,14 @@
+C:\Troelsen\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.exe.config
+C:\Troelsen\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.exe
+C:\Troelsen\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.pdb
+C:\Troelsen\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.csprojResolveAssemblyReference.cache
+C:\Troelsen\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.csproj.CoreCompileInputs.cache
+C:\Troelsen\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.exe
+C:\Troelsen\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.pdb
+D:\Troelsen\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.exe.config
+D:\Troelsen\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.exe
+D:\Troelsen\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.pdb
+D:\Troelsen\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.csprojResolveAssemblyReference.cache
+D:\Troelsen\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.csproj.CoreCompileInputs.cache
+D:\Troelsen\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.exe
+D:\Troelsen\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.pdb

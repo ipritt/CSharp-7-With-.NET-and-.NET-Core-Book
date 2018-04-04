@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\GenericPoint\GenericPoint\bin\Debug\GenericPoint.exe.config
+C:\Users\lanad\OneDrive\Troelsen\GenericPoint\GenericPoint\bin\Debug\GenericPoint.exe
+C:\Users\lanad\OneDrive\Troelsen\GenericPoint\GenericPoint\bin\Debug\GenericPoint.pdb
+C:\Users\lanad\OneDrive\Troelsen\GenericPoint\GenericPoint\obj\Debug\GenericPoint.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\GenericPoint\GenericPoint\obj\Debug\GenericPoint.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\GenericPoint\GenericPoint\obj\Debug\GenericPoint.exe
+C:\Users\lanad\OneDrive\Troelsen\GenericPoint\GenericPoint\obj\Debug\GenericPoint.pdb

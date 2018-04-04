@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.exe.config
+C:\Users\lanad\OneDrive\Troelsen\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.exe
+C:\Users\lanad\OneDrive\Troelsen\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.pdb
+C:\Users\lanad\OneDrive\Troelsen\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.exe
+C:\Users\lanad\OneDrive\Troelsen\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.pdb

@@ -1,0 +1,7 @@
+C:\Users\lanad\OneDrive\Troelsen\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.exe.config
+C:\Users\lanad\OneDrive\Troelsen\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.exe
+C:\Users\lanad\OneDrive\Troelsen\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.pdb
+C:\Users\lanad\OneDrive\Troelsen\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.csprojResolveAssemblyReference.cache
+C:\Users\lanad\OneDrive\Troelsen\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.csproj.CoreCompileInputs.cache
+C:\Users\lanad\OneDrive\Troelsen\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.exe
+C:\Users\lanad\OneDrive\Troelsen\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.pdb

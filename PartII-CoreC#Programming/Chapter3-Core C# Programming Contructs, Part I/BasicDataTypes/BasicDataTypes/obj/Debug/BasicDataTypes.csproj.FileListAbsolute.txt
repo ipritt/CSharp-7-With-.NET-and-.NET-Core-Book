@@ -1,0 +1,7 @@
+C:\Troelsen\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.exe.config
+C:\Troelsen\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.exe
+C:\Troelsen\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.pdb
+C:\Troelsen\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.csprojResolveAssemblyReference.cache
+C:\Troelsen\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.csproj.CoreCompileInputs.cache
+C:\Troelsen\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.exe
+C:\Troelsen\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.pdb

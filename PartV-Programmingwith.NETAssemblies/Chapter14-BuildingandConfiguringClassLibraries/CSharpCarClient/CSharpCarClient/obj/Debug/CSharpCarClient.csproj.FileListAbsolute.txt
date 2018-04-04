@@ -1,0 +1,10 @@
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\CSharpCarClient\CSharpCarClient\bin\Debug\CSharpCarClient.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\CSharpCarClient\CSharpCarClient\bin\Debug\CSharpCarClient.exe
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\CSharpCarClient\CSharpCarClient\bin\Debug\CSharpCarClient.pdb
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\CSharpCarClient\CSharpCarClient\bin\Debug\CarLibrary.dll
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\CSharpCarClient\CSharpCarClient\bin\Debug\CarLibrary.pdb
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.csproj.CopyComplete
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.exe
+C:\Users\ipritt\OneDrive\Troelsen\Part V-Programming with .NET Assemblies\Chapter14-Building and Configuring Class Libraries\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.pdb

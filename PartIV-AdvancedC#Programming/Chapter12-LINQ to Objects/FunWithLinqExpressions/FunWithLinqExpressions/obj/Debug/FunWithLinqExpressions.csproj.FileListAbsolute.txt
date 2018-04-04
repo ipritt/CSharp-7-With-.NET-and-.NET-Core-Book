@@ -1,0 +1,7 @@
+C:\Users\ipritt\OneDrive\Troelsen\FunWithLinqExpressions\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\FunWithLinqExpressions\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.exe
+C:\Users\ipritt\OneDrive\Troelsen\FunWithLinqExpressions\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.pdb
+C:\Users\ipritt\OneDrive\Troelsen\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.exe
+C:\Users\ipritt\OneDrive\Troelsen\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.pdb

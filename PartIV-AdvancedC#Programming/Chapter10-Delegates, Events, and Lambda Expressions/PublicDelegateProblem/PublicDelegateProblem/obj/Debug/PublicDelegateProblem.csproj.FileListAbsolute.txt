@@ -1,0 +1,7 @@
+C:\Users\ipritt\OneDrive\Troelsen\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\PublicDelegateProblem.csprojResolveAssemblyReference.cache
+C:\Users\ipritt\OneDrive\Troelsen\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\PublicDelegateProblem.csproj.CoreCompileInputs.cache
+C:\Users\ipritt\OneDrive\Troelsen\PublicDelegateProblem\PublicDelegateProblem\bin\Debug\PublicDelegateProblem.exe.config
+C:\Users\ipritt\OneDrive\Troelsen\PublicDelegateProblem\PublicDelegateProblem\bin\Debug\PublicDelegateProblem.exe
+C:\Users\ipritt\OneDrive\Troelsen\PublicDelegateProblem\PublicDelegateProblem\bin\Debug\PublicDelegateProblem.pdb
+C:\Users\ipritt\OneDrive\Troelsen\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\PublicDelegateProblem.exe
+C:\Users\ipritt\OneDrive\Troelsen\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\PublicDelegateProblem.pdb
